@@ -18,5 +18,4 @@ News app is a good ios app which shows different kinds of news around the world 
 
 # Team member
 
-* Jiawei Xu  
 * Xinze Zhang
