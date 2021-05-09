@@ -18,4 +18,4 @@ News app is a good ios app which shows different kinds of news around the world 
 
 
 
-* Xinze Zhang
+
