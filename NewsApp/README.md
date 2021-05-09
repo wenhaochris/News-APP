@@ -16,6 +16,6 @@ News app is a good ios app which shows different kinds of news around the world 
 * [News API](https://newsapi.org)
 * [YouTube Data API](https://developers.google.com/youtube/v3)
 
-# Team member
+
 
 * Xinze Zhang
